@@ -1,1 +1,12 @@
-# cozy201_projects
+# cozy201_projects_web_skills
+1. Foods
+2. Creative-Design
+3. Business-Agency-Website
+4. Apple-Website
+5. Personal-Website
+6. Classic-Cars
+7. Architect-Website
+8. The-Road
+9. Wine-Website
+10. Payal-Clone
+11. cozy201_Final_Project 
